@@ -15,21 +15,6 @@ Live link: https://personal-expense-tracker-sigma-nine.vercel.app/
 
 ---
 
-## Project Structure
-
-```
-expense-tracker/
-├── backend/
-│   ├── server.js       ← Express API server
-│   ├── database.js     ← SQLite setup & seed data
-│   ├── package.json
-│   └── expenses.db     ← auto-created on first run
-└── frontend/
-    └── index.html      ← complete UI (open in browser)
-```
-
----
-
 ## Setup Instructions (VS Code)
 
 ### Step 1 — Install Node.js
