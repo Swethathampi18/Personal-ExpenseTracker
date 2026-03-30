@@ -1,0 +1,5 @@
+{
+  "name": "ExpenseTrack",
+  "description": "A fully functional personal expense tracker with dashboard, category breakdown, and monthly summaries.",
+  "requestFramePermissions": []
+}
