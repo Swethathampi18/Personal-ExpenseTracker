@@ -77,5 +77,4 @@ That's it! The app is running.
 ---
 
 ## Author
-- Name: [Your Name]
-- Course: [Your Course]
+- Name: Swetha Thampi M
